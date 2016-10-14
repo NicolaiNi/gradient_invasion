@@ -15,3 +15,8 @@ Methods: We used individual-based simulations and controlled experiments in repl
 Results: We show that information on environmental gradients severely impacted range dynamics and inverted the spatial distribution of population densities in comparison to controls where this information was not provided. Additionally, using information on gradients prevented evolutionary changes in dispersal rates and an acceleration of range expansions. 
 
 Main conclusions: We demonstrate the strong impact of informed dispersal and subsequent behavioral changes on range dynamics in environmental gradients. More generally, our findings highlight the importance of informed dispersal for spatial ecological and evolutionary dynamics.
+
+
+
+[![DOI](https://zenodo.org/badge/70885313.svg)](https://zenodo.org/badge/latestdoi/70885313)
+
